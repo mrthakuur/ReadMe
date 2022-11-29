@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact *Let's Do Some Code*
 
-- ⚡ Work At RECREATOR INFOTECH PVT LTD
+- ⚡ Work At RECREATOR INFOTECH PVT. LTD.
 
 
 <h3 align="left">Languages and Tools:</h3>
