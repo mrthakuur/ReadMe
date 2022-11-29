@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nirav Vyas</h1>
+<h1 align="center">Hi 👋, I'm Niraj Thakur</h1>
 <h3 align="center">A Passionate Flutter Developer From India</h3>
 <img align="right" alt="Coding" width="500" high="500" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"</h5>
 
@@ -9,11 +9,11 @@
 
 - 💬 Ask me about *Flutter Development*
 
-- 📫 How to reach me *niravvyas1234@gmail.com*
+- 📫 How to reach me *officialnirajthakur@gmail.com*
 
 - ⚡ Fun fact *Let's Do Some Code*
 
-- ⚡ Work At RECREATOR PVT LTD
+- ⚡ Work At RECREATOR INFOTECH PVT LTD
 
 
 <h3 align="left">Languages and Tools:</h3>
