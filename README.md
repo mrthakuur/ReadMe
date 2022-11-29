@@ -31,9 +31,9 @@
   </a>
   
   <br/>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr_thakuur&show_icons=true&locale=en" alt="mr_thakuur" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrthakuur&show_icons=true&locale=en" alt="mrthakuur" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikhadiya09&" alt="kartikhadiya09" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr_thakuur&" alt="mr_thakuur" /></p>
 
 <div align="center">
 
